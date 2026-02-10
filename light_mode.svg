@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #953800;}
+.value {fill: #0a3069;}
+.addColor {fill: #1a7f37;}
+.delColor {fill: #611295ff;}
+.cc {fill: #c2cfde;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
+
+<text x="690" y="30" fill="#24292f">
+<tspan x="20" y="30">Eduardo.Forte</tspan> -————————————————————————————————————————————————————————————————————————————————-—-
+
+<tspan x="20" y="50" class="cc">. </tspan><tspan class="key">IA</tspan>.<tspan class="key">Analise</tspan>:<tspan class="cc"></tspan><tspan class="value"> Pandas <tspan class="key">|</tspan> NumPy <tspan class="key">|</tspan> Matplotlib <tspan class="key">|</tspan> Scikit-learn <tspan class="key">|</tspan> LLM <tspan class="key">(</tspan>GPT, Llama, Claude<tspan class="key">)</tspan></tspan>
+
+
+<tspan x="20" y="70" class="cc">. </tspan><tspan class="key">Linguagens</tspan>.<tspan class="key">Frameworks</tspan>:<tspan class="cc"></tspan><tspan class="value"> Python <tspan class="key">|</tspan> R <tspan class="key">|</tspan> PHP <tspan class="key">|</tspan> Laravel <tspan class="key">|</tspan> JavaScript </tspan>
+
+
+<tspan x="20" y="90" class="cc">. </tspan><tspan class="key">Banco</tspan>.<tspan class="key">Dados</tspan>:<tspan class="cc"></tspan>
+<tspan class="value">PostgreSQL <tspan class="key">|</tspan> SQL Server <tspan class="key">|</tspan> Arquitetura Data Warehouse </tspan>  
+
+
+<tspan x="20" y="110" class="cc">. </tspan><tspan class="key">Cloud</tspan>.<tspan class="key">DevOps</tspan>:<tspan class="cc"></tspan><tspan class="value">  Docker   <tspan class="key">|</tspan> CI/CD </tspan>
+
+
+<tspan x="20" y="130" class="cc">. </tspan><tspan class="key">Testes</tspan>.<tspan class="key">Praticas</tspan>:<tspan class="cc"></tspan><tspan class="value"> Microsserviços  <tspan class="key">|</tspan> Metodologia Ágil Scrum</tspan>
+
+<tspan x="20" y="150">- Resultados</tspan> -—————————————————————————————————————————————————————————————————————————————————-—-
+
+
+
+<tspan x="20" y="170" class="cc">. </tspan><tspan class="key">Arquitetura</tspan>.<tspan class="key">Dados</tspan>:<tspan class="cc"></tspan><tspan class="value">Projetei e implementei o "Hub de Processos Seletivos", migrando dados</tspan>
+
+<tspan x="20" y="190" class="cc">. </tspan><tspan class="key"></tspan><tspan class="key"></tspan><tspan class="cc"></tspan><tspan class="value">fragmentados para uma estrutura unificada em PostgreSQL, garantindo 100% da integridade.</tspan>
+
+<tspan x="20" y="210" class="cc">. </tspan><tspan class="key">Database</tspan>.<tspan class="key">Performance</tspan>:<tspan class="cc"></tspan><tspan class="value">Otimização avançada de queries SQL (Indexing, Explain Analyze), resultando</tspan>
+
+<tspan x="20" y="230" class="cc">. </tspan><tspan class="key"></tspan><tspan class="cc"></tspan><tspan class="value">em redução de latência e aumento de 70% na eficiência de recuperação de dados.</tspan>
+
+<tspan x="20" y="250" class="cc">. </tspan><tspan class="key">Qualidade</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"></tspan><tspan class="value">Estabeleci padrões de documentação técnica e validação de entrada de dados,</tspan>
+
+<tspan x="20" y="270" class="cc">. </tspan><tspan class="key"></tspan><tspan class="cc"></tspan><tspan class="value">o que reduziu em 90% os chamados de suporte relacionados a inconsistências.</tspan>
+
+<tspan x="20" y="290" class="cc">. </tspan><tspan class="key">Business</tspan>.<tspan class="key">Intelligence</tspan>:<tspan class="cc"></tspan><tspan class="value">Desenvolvi pipelines de ETL usando Python e SQL para transformar logs de</tspan>
+
+<tspan x="20" y="310" class="cc">. </tspan><tspan class="key"></tspan><tspan class="key"></tspan><tspan class="cc"></tspan><tspan class="value">transações em dashboards estratégicos, permitindo aos comerciantes ajustarem seus estoques.</tspan>
+
+<tspan x="20" y="330" class="cc">. </tspan><tspan class="key">Sistema</tspan>.<tspan class="key">Recomendacao</tspan>:<tspan class="cc"></tspan><tspan class="value">Projetei um motor de recomendação (Collaborative Filtering) que analisa</tspan>
+
+<tspan x="20" y="350" class="cc">. </tspan><tspan class="key"></tspan><tspan class="key"></tspan><tspan class="cc"></tspan><tspan class="value">histórico de pedidos para personalizar a experiência do usuário e aumentar o ticket médio.</tspan>
+
+
+<tspan x="20" y="370">- Educacao</tspan> -———————————————————————————————————————————————————————————————————————————————————-—-
+
+
+<tspan x="20" y="390" class="cc">. </tspan><tspan class="key">Faculdade</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Universidade do Estado do Pará (UEPA)</tspan>
+
+<tspan x="20" y="410" class="cc">. </tspan><tspan class="key">Curso</tspan>:<tspan class="cc"> ....................................</tspan>
+<tspan class="value">Engenharia de Software </tspan>|<tspan class="key"> 09/2023 - 06/2027</tspan>  
+
+<tspan x="20" y="430" class="cc">. </tspan><tspan class="key">Instituicao</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Centro de Cultura Anglo Americana (CCAA)</tspan>
+
+<tspan x="20" y="450" class="cc">. </tspan><tspan class="key">Idioma</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">Língua Inglesa (TOEFL ITP B2) </tspan>|<tspan class="key"> 01/2016 - 06/2025</tspan>  
+
+
+
+<tspan x="20" y="470">- Contato</tspan> -————————————————————————————————————————————————————————————————————————————————————-—-
+
+<tspan x="20" y="490" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Profissional</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">eduardo.ads.2015@gmail.com</tspan>
+
+<tspan x="20" y="510" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">duardoforte</tspan>
+
+</text>
+</svg>
